@@ -1,0 +1,15 @@
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\bin\Debug\net6.0\AlgoritDataIns.exe
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\bin\Debug\net6.0\AlgoritDataIns.deps.json
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\bin\Debug\net6.0\AlgoritDataIns.runtimeconfig.json
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\bin\Debug\net6.0\AlgoritDataIns.dll
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\bin\Debug\net6.0\AlgoritDataIns.pdb
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\AlgoritDataIns.csproj.AssemblyReference.cache
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\AlgoritDataIns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\AlgoritDataIns.AssemblyInfoInputs.cache
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\AlgoritDataIns.AssemblyInfo.cs
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\AlgoritDataIns.csproj.CoreCompileInputs.cache
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\AlgoritDataIns.dll
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\refint\AlgoritDataIns.dll
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\AlgoritDataIns.pdb
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\AlgoritDataIns.genruntimeconfig.cache
+C:\Users\Hunkar\Desktop\VeriYapılarCalismalar\LİnkedList\AlgoritDataIns\AlgoritDataIns\obj\Debug\net6.0\ref\AlgoritDataIns.dll
